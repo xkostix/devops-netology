@@ -12,3 +12,5 @@ First editing
 * .terraformrc и terraform.rc
 
 Добавляем строку, ветка fix.
+
+Добавляем строку, IDE-Git
