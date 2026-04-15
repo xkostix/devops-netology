@@ -13,5 +13,6 @@ First editing
 
 Добавляем строку, ветка fix.
 
-Добавляем строку, IDE-Git
+Добавляем строку, IDE-Git.
+
 Another line in IDE.
