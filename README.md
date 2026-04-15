@@ -10,3 +10,5 @@ First editing
 * с именами override.tf и override.tf.json, а также заканичвающиеся на _override.tf и _override.tf.json
 * файл .terraform.tfstate.lock.info
 * .terraformrc и terraform.rc
+
+Добавляем строку, ветка fix.
